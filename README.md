@@ -1,1 +1,2 @@
-# Simple-flask-app
+# flask-app-ecs
+Simple flask app to be run on ECS
